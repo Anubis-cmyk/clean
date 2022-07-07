@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project</string>
+    <string-array name="userType_array">
+        <item>Customer</item>
+        <item>Cleaner</item>
+    </string-array>
+</resources>
